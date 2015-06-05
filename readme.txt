@@ -1,0 +1,7 @@
+# newlearngit
+
+read me please
+
+add something
+
+change to txt
