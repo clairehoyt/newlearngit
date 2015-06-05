@@ -1,1 +1,8 @@
-read me 
+
+# newlearngit
+
+read me please
+
+add something
+
+change to 
